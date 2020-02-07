@@ -16,6 +16,10 @@ public class Firsttrial {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        myName();
+    }
+    public static void myName(){
+        System.out.println("My name is Ed");
     }
     
 }
